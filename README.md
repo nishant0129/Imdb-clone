@@ -1,3 +1,6 @@
+<a href="https://6476f04fa059a06bcfab3d77--preeminent-travesseiro-9aa3f7.netlify.app/"><h1>Open in browser</h1></a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
